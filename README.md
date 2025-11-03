@@ -1,4 +1,4 @@
-# Good-GYM: AI Fitness Assistant 💪
+Fitness Tracker Analyzer 💪
 
 <div align="center">
 
