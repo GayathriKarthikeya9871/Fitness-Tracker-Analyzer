@@ -2,24 +2,11 @@
 
 <div align="center">
 
-<img src="assets/Logo.png" width="200px" alt="Good-GYM Logo">
-
-[![GitHub stars](https://img.shields.io/github/stars/yo-WASSUP/Good-GYM?style=social)](https://github.com/yo-WASSUP/Good-GYM/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yo-WASSUP/Good-GYM?style=social)](https://github.com/yo-WASSUP/Good-GYM/network/members)
-[![GitHub license](https://img.shields.io/github/license/yo-WASSUP/Good-GYM)](https://github.com/yo-WASSUP/Good-GYM/blob/main/LICENSE)
-
 **AI Fitness Assistant Based on RTMPose**
 
-[English](README.md) | [中文](README_CN.md)
-
-[![LinkedIn introduction](https://img.shields.io/badge/LinkedIn-介绍-0077B5)](https://www.linkedin.com/posts/huihuang-tang_ai-computervision-opencv-activity-7325469166591770624-Bbyx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7qaoMBbw89mcxb0dNh_O4ezc8EFShoOtU)
 
 </div>
 
-## 🆕 Changelog
-
-- **2024-06-07**: Major update! Dropped YOLO models and all GPU support. Now uses only RTMPose for pose detection, and runs on CPU only. Simpler, more compatible, and easier to use.
-- **2024-06-12**：Optimize exercise_counters.py for counting accuracy, code structure optimization
 
 ## 🔮 Future Development
 
@@ -34,9 +21,6 @@
 
 
 ---
-<img src="assets/demo-en.gif" width="800px" alt="演示">
-
-<img src="assets/demo-status-en.gif" width="800px" alt="演示">
 
 ## 🌟 Features
 
@@ -53,13 +37,6 @@
 ## 📦 Direct Download
 - If you don't want to set up a Python environment, you can download our pre-packaged executable:
 
-  **Windows EXE package**: 
-
-  [Baidu Netdisk Link](https://pan.baidu.com/s/1pXtzy5SfFp1g4JJx-kCLCQ) code: 8866
-
-  [Google Drive](https://drive.google.com/file/d/14CW8kBBc3NolH-59b3wHoZY1dFvKnv2P/view?usp=sharing)
-
-## 📝 Usage Guide
 
 ### Controls
 
@@ -83,8 +60,8 @@
 
 1. **Clone and install**
    ```bash
-   git clone https://github.com/yo-WASSUP/Good-GYM.git
-   cd Good-GYM
+   git clone https://github.com/Vikranth0211/Fitness-Tracker-Analyzer.git
+   cd Fitness-Tracker-Analyzer
    
    # Create virtual environment
    python -m venv venv
@@ -113,14 +90,3 @@
 <img src="assets/Screenshot-en-4.png" width="600px" alt="Screenshot 4">
 
 <img src="assets/Screenshot-en-5.png" width="600px" alt="Screenshot 5">
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-Thanks to RTMPose open source pose detection model: https://github.com/Tau-J/rtmlib
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
