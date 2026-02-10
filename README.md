@@ -7,21 +7,6 @@ Fitness Tracker Analyzer 💪
 
 </div>
 
-
-## 🔮 Future Development
-
-- [x] Multi-language interface
-- [x] Improve pose detection accuracy
-- [ ] Add support for more exercise types
-- [ ] Add custom exercise types template
-- [ ] Recognizing Motion Accuracy
-- [ ] Motion Error Correction Indication
-- [ ] Add voice feedback
-- [ ] Mobile Application Support
-
-
----
-
 ## 🌟 Features
 
 - **Real-time Exercise Counting** - Automatically counts your repetitions
